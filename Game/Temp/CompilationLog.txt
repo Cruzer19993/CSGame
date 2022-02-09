@@ -1,0 +1,28 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3267a3b9ab570cca8a42f548d2dc4ed9
+# Starting compiling UnityEngine.UI.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cdb3725d769e5ea77bef4e70346d2dcb
+# Starting compiling UnityEditor.TestRunner.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ed3e7c050769c3506a5c9052a8f634f0
+# Starting compiling UnityEditor.UI.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fa4a5f067d13b9187b0f4dae85deffef
+# Starting compiling Unity.Services.Core.Editor.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4fef2e336d46fab6c9073b62ffcc7272
+# Starting compiling Unity.VSCode.Editor.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1b3861301dedf831cad730ea76c1a57b
+# Starting compiling Unity.VisualStudio.Editor.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-63a06e00da522fd62addfa8d43b517fb
+# Starting compiling Unity.Timeline.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-65146ff8842c5d37d954735d4fc0aa0e
+# Starting compiling Unity.TextMeshPro.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-64d1b6dd12341700f95f50f67a9987fd
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-32e2c7a56060e90d78cb3709f0abddb8
+# Starting compiling Unity.Rider.Editor.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1609b603c5e05e0138b1b7d11a7d01b7
+# Starting compiling Unity.Timeline.Editor.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a38a4971a73db3f2d907b5ae86f1b071
+# Starting compiling Unity.CollabProxy.Editor.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bc0bc65af170d345d9c45d560dfea6a2
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/home/jw/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-eb8e04ae61f09f650b611899fbe78e4e
